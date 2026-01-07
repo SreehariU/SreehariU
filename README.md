@@ -11,7 +11,8 @@
 
 ## 📂 Projects
 - Biometric Attendance System  
-- Software Defect Prediction (ML)
+- Software Defect Prediction in C/C++(ML)
+- Authentication & Authorization Service .NET,JWT and React 
 
 ## 📫 Connect with Me
 - GitHub: https://github.com/SreehariU  
